@@ -18,8 +18,8 @@ public class DogDemo {
 
         /*
            优雅之处体现：
-           如果你以后写了一个 Cat 类也实现了 OurComparable，
-           你可以直接把 Cat[] 传给 Maximizer.max(cats)，而不需要改动 Maximizer。
+           如果以后写了一个 Cat 类也实现了 OurComparable，
+           可以直接把 Cat[] 传给 Maximizer.max(cats)，而不需要改动 Maximizer。
         */
     }
 
